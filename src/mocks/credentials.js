@@ -3,6 +3,7 @@ const credentials = {
   password: "wecandoit",
   role: "admin",
   token: "ahuBHejkJJiMDhmODZhZi0zaeLTQ4ZfeaseOGZgesai1jZWYgrTA07i73Gebhu98",
+  token2: "98",
 };
 
-module.exports = credentials;
+export default credentials;
